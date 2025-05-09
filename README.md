@@ -62,12 +62,6 @@ A full-stack backend system for managing digital learning environments. Built wi
 
 ---
 
-## 🧾 Jira Integration
-
-All SonarQube issues (e.g., 127 maintainability issues) are being tracked in **Jira** for resolution. Grouped and prioritized using:
-
-- **Epic:** Improve Maintainability via SonarQube
-- **Tasks:** Refactor duplications, simplify logic, remove code smells, etc.
 
 ---
 
